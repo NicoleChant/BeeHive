@@ -37,4 +37,4 @@ My main area of study & research lies within the Artificial Intelligence. From p
 
 ---
 
-<img src="https://www.researchgate.net/profile/S-Cooper-2/publication/236235275/figure/fig1/AS:299406839566336@1448395561233/Alan-Turing-as-a-Universal-Turing-Machine.png" title="Alan Turing" alt="Alan Turing" width="70" height="70"/>
+<img src="https://artinsights.com/wp-content/uploads/2017/11/Alan_Turing.web_.jpg" title="Alan Turing" alt="Alan Turing" width="70" height="70"/>
