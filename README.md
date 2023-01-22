@@ -38,7 +38,7 @@ My main area of study & research lies within the Artificial Intelligence. From p
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NicoleChant&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoleChant&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook&hide=pure%20basic)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoleChant&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook&pure%20basic)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
