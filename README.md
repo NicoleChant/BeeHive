@@ -35,9 +35,8 @@ My main area of study & research lies within the Artificial Intelligence. From p
 
 ### :fire: My Stats :
 
-<p align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NicoleChant&theme=dark&background=000000)](https://git.io/streak-stats)
-</p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NicoleChant&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 ---
 
