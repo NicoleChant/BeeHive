@@ -37,4 +37,6 @@ My main area of study & research lies within the Artificial Intelligence. From p
 
 ---
 
-<img src="https://artinsights.com/wp-content/uploads/2017/11/Alan_Turing.web_.jpg" title="Alan Turing" alt="Alan Turing" width="70" height="70"/>
+<p align="center">
+  <img src="https://artinsights.com/wp-content/uploads/2017/11/Alan_Turing.web_.jpg" title="Alan Turing" alt="Alan Turing" width="400" height="500"/>
+</p>
