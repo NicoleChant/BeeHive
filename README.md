@@ -1,15 +1,15 @@
 # About me
 
-Greetings Traveler
+Greetings Traveler,
 
 My name is Nicole. Some people also call me Channi. I am a computer scientist/mathematician. 
 
-My main area of interest & research is in Artificial Intelligence algorithms including but not limited to path finding, classifiers, probabilistic MinMax algorithms, Bayesian Networks, AOC.
+My main area of interest & research is in Artificial Intelligence algorithms including but not limited to path finding, classifiers, probabilistic MinMax algorithms, Bayesian Networks, Ant Colony Optimizations.
 
 <ul>
   <li> she/her 🏳️‍⚧️🏳️‍🌈 </li>
-  <li> I am open to build something new </li>
-  <li> I love coding & data science & probability theory 🤓 </li>
+  <li> I am open into building something new </li>
+  <li> I love programming 🤓 </li>
   <li> Mostly working with Python 🐍 </li>
 </ul>
 
@@ -37,4 +37,4 @@ My main area of interest & research is in Artificial Intelligence algorithms inc
 
 ---
 
-![Alan](https://m.media-amazon.com/images/I/71xwlcHILSL.SS700.jpg)
+<img src="profile/S-Cooper-2/publication/236235275/figure/fig1/AS:299406839566336@1448395561233/Alan-Turing-as-a-Universal-Turing-Machine.png" title="Alan Turing" alt="Alan Turing" width="70" height="70"/>
