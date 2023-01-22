@@ -11,6 +11,7 @@ My main area of study & research lies within the Artificial Intelligence. From p
   <li> I am open into building something new </li>
   <li> I love programming 🤓 </li>
   <li> Mostly working with Python 🐍 </li>
+  <li> You can contact me via [linkedin](https://www.linkedin.com/in/nikol-chantzi-438b62201/) or via my personal email <nicolechantzi@gmail.com>. </li>
 </ul>
 
 ---
@@ -37,7 +38,7 @@ My main area of study & research lies within the Artificial Intelligence. From p
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NicoleChant&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoleChant&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoleChant&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
