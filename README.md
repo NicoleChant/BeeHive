@@ -4,7 +4,7 @@ Greetings Traveler,
 
 My name is Nicole. Some people also call me Channi. I am a computer scientist/mathematician. 
 
-My main area of study & research lies within the Artificial Intelligence. From path finding algorithms & classifiers to search optimization, probabilistic MinMax algorithms, Ant Colony Optimizations and with an active interest in low level details.
+My main area of study & research lies within the Artificial Intelligence domain. From path finding algorithms & classifiers to search optimization, probabilistic MinMax algorithms, Ant Colony Optimizations and with an active interest in low level details.
 
 <ul>
   <li> she/her 🏳️‍⚧️🏳️‍🌈 </li>
