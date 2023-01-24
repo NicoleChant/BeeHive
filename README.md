@@ -12,6 +12,7 @@ My main area of study & research lies within the Artificial Intelligence domain.
   <li> I love programming 🤓 </li>
   <li> Mostly working with Python 🐍 </li>
   <li> You can contact me via <a href="https://www.linkedin.com/in/nikol-chantzi-438b62201/" title="Linkedin" alt="Linkedin"> Linkedin </a> or via my personal email nicolechantzi@gmail.com. </li>
+  <li> I speak Greek, English and a bit of French </li>
 </ul>
 
 ---
