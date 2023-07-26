@@ -4,6 +4,8 @@ Greetings Traveler,
 
 My name is Nicole. Some people also call me Channi. I am a computer scientist/mathematician. 
 
+I currently work at Dr. Ilias Georgakopoulos-Soares bioinformatics lab.
+
 My main area of study & research lies within the Artificial Intelligence domain. From path finding algorithms & classifiers to search optimization, probabilistic MinMax algorithms, Ant Colony Optimizations and with an active interest in low level details.
 
 <ul>
